@@ -1,3 +1,3 @@
-Задание выполнено по модели ветвления разработки GIT-FLOW.
+Р—Р°РґР°РЅРёРµ РІС‹РїРѕР»РЅРµРЅРѕ РїРѕ РјРѕРґРµР»Рё РІРµС‚РІР»РµРЅРёСЏ СЂР°Р·СЂР°Р±РѕС‚РєРё GIT-FLOW.
 
-![Иллюстрация к проекту](https://github.com/Alex2201Sh/clevertec-task-git/images/screenshot.png)
+![РР»Р»СЋСЃС‚СЂР°С†РёСЏ Рє РїСЂРѕРµРєС‚Сѓ](https://raw.githubusercontent.com/Alex2201Sh/clevertec-task-git/master/images/screenshot.png)

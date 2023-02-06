@@ -1,3 +1,5 @@
 feature 2 for future release
 
 continue working on feature 2
+
+third commit with feature 2

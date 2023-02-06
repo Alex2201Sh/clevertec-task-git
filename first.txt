@@ -7,3 +7,5 @@
 6.preparing for release v1.0
 
 7.continue working on release v1.0
+
+8.some bugfixes in release branch.

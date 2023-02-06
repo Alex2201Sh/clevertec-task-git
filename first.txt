@@ -3,3 +3,5 @@
 3.tag 0.1
 4.made hotfix
 5.changed tag to 0.2
+
+6.preparing for release v1.0

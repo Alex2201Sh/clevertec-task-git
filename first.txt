@@ -5,3 +5,5 @@
 5.changed tag to 0.2
 
 6.preparing for release v1.0
+
+7.continue working on release v1.0
